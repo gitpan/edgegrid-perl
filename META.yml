@@ -24,4 +24,4 @@ requires:
   Data::UUID: 0
   LWP: 5.834
   perl: 5.006
-version: 1.0
+version: v1.0.1
